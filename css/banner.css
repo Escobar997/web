@@ -2,7 +2,7 @@
     position: relative;
     height: 80vh;
     background: linear-gradient(to right, rgba(0,45,90,0.9) 30%, rgba(5, 57, 108, 0.322) 60%, rgba(5, 64, 122, 0) 100%), 
-                url('../img/banner-oficial.jpg') no-repeat center center;
+                url('img/banner-oficial.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     display: flex;
