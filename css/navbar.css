@@ -1,0 +1,39 @@
+header ul li {
+    font-weight: 500;
+}
+
+.btn-orange {
+  background-color: #2b4197;
+  color: white;
+}
+
+.btn-orange:hover {
+  background-color: #2b4197;
+  color: white;
+}
+
+.btn-secondary {
+    background-color: #99b127;
+    outline: none;
+    border: none;
+}
+
+.btn-secondary a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+    background-color: #45b8ac;
+}
+
+.container {
+  max-width: 1400px !important;
+}
+
+.logo-text {
+  color: #ff5c00;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+}

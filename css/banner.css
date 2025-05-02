@@ -1,0 +1,35 @@
+.banner {
+    position: relative;
+    height: 80vh;
+    background: linear-gradient(to right, rgba(0,45,90,0.9) 30%, rgba(5, 57, 108, 0.322) 60%, rgba(5, 64, 122, 0) 100%), 
+                url('../img/banner-oficial.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+
+  .content {
+    max-width: 600px;
+  }
+
+  .content h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .content h2 {
+    font-size: 20px;
+    color: #99b515;
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+
+  .content p {
+    letter-spacing: -0.01em;
+    font-size: 1.125rem;
+    line-height: 1.32;
+    font-size: 18px;
+    text-align: justify;
+  }

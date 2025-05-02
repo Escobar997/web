@@ -1,0 +1,196 @@
+    @import url('banner.css');
+    @import url('navbar.css');
+    @import url('responsivo.css');
+
+    /* ESTILOS GENERALES */
+
+    html {
+        scroll-behavior: smooth !important;
+    }  
+    
+    body {
+        font-family: "Montserrat", sans-serif !important;
+    }
+
+    .boton-componente1 a {
+        outline: none;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .boton-componente1 {
+        align-items: center;
+        background-clip: padding-box;
+        background-color: #ba510b;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 1.25;
+        margin: 0;
+        min-height: 3rem;
+        padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+        position: relative;
+        text-decoration: none;
+        transition: all 250ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        vertical-align: baseline;
+        width: auto;
+    }
+
+
+    .boton-componente2 a {
+        outline: none;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .boton-componente2 {
+        align-items: center;
+        background-clip: padding-box;
+        background-color: #cf9400;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 1.25;
+        margin: 0;
+        min-height: 3rem;
+        padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+        position: relative;
+        text-decoration: none;
+        transition: all 250ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        vertical-align: baseline;
+        width: auto;
+    }
+
+
+    .boton-componente3 a {
+        outline: none;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .boton-componente3 {
+        align-items: center;
+        background-clip: padding-box;
+        background-color: #1f4a97;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 1.25;
+        margin: 0;
+        min-height: 3rem;
+        padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+        position: relative;
+        text-decoration: none;
+        transition: all 250ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        vertical-align: baseline;
+        width: auto;
+    }
+
+    .boton-componente3 a {
+        outline: none;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .botones1 a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .botones1 {
+        align-items: center;
+        background-clip: padding-box;
+        background-color: #284296;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+        box-sizing: border-box;
+        color: #fff;
+        cursor: pointer;
+        display: inline-flex;
+        font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        justify-content: center;
+        line-height: 1.25;
+        margin: 0;
+        min-height: 3rem;
+        padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+        position: relative;
+        text-decoration: none;
+        transition: all 250ms;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+        vertical-align: baseline;
+        width: auto;
+    }
+
+    .botones1:hover,
+    .botones1:focus {
+        background-color: #1f1f1e;
+        box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    }
+
+    section p {
+        letter-spacing: -0.01em;
+        font-size: 1.125rem;
+        line-height: 1.32;
+    }
+
+    .s-normal h3 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .s-normal b {
+        color: #284296;
+    }
+
+    .s-color {
+        background-color: #f8f8fa;
+    }
+
+    .pie-pagina {
+        background-color: #3B4042;
+        color: #fff;
+      }
+    
+      .pie-pagina p {
+        color: #b6b5b5;
+    }
+
+/* FIN ESTILOS GENERALES */
